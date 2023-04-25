@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaConverterNetFramework", "MediaConverterNetFramework\MediaConverterNetFramework.csproj", "{237CD29C-52CE-485E-B983-F7082A15E8FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{237CD29C-52CE-485E-B983-F7082A15E8FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{237CD29C-52CE-485E-B983-F7082A15E8FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{237CD29C-52CE-485E-B983-F7082A15E8FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{237CD29C-52CE-485E-B983-F7082A15E8FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E52838A0-F2CA-47AD-947E-62339B9E3D62}
+	EndGlobalSection
+EndGlobal
